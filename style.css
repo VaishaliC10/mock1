@@ -1,0 +1,10 @@
+label{
+    display: inline-flex;
+    width: 100px;
+}
+
+form{
+    border: 2px solid;
+    padding: 20px;
+    width: 25%;
+}
